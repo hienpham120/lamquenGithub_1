@@ -10,7 +10,7 @@ console.log("branchDev");
 function Dev() {
     console.log('branchDev');
 }
-//Merge test + deyploy
-function testCompleted() {
-    console.log('testCompleted');
+//Merge master + deyploy
+function doneTask() {
+    console.log('doneTask');
 }
