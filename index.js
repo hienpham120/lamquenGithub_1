@@ -1,4 +1,4 @@
-console.log("master");
-// function Deploy(){
-//     console.log('deployBranch');
-// }
+console.log("branchDev");
+function Ded() {
+    console.log('branchDev');
+}
